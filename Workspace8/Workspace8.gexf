@@ -1,0 +1,1026 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-12-15">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="eigencentrality" title="Eigenvector Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="Internet" label="Internet">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.6784945050676616"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="26.784945"></viz:size>
+        <viz:position x="-234.0515" y="206.74384"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="Protocoles">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.6694251125833311"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="26.694252"></viz:size>
+        <viz:position x="-263.01578" y="81.66087"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="L'écriture_collaborative">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.5456797187767872"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="25.456799"></viz:size>
+        <viz:position x="116.66886" y="-169.47287"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="Les_métadonnées_et_l'indexation">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.3194825196550626"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="23.194824"></viz:size>
+        <viz:position x="-121.708496" y="-27.539913"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="Algorithme">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.5763276937828027"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="25.763277"></viz:size>
+        <viz:position x="-156.04202" y="410.72522"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="Légitimation">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.30590441901809906"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="23.059044"></viz:size>
+        <viz:position x="525.72876" y="275.31595"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="Désintermédiation">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.4479236384379444"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="24.479237"></viz:size>
+        <viz:position x="586.1868" y="-259.57825"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="Fonction_éditoriale">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.5726041083950217"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="25.726042"></viz:size>
+        <viz:position x="728.53485" y="234.82135"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="GAFAM">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.21478761619067463"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="22.147877"></viz:size>
+        <viz:position x="126.34085" y="46.093525"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="Curation">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.10160439715427728"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="21.016045"></viz:size>
+        <viz:position x="162.37389" y="474.3312"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="Plateformes_d'édition">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1152.472" y="804.1924"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="Éditorialisation">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.12329648905759938"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="21.232965"></viz:size>
+        <viz:position x="-1043.2151" y="725.3432"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="Plateformes_numériques">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.006395253059046037"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="20.063953"></viz:size>
+        <viz:position x="-1358.8917" y="1027.1909"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="Espace_numérique">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.06170358091391554"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="20.617035"></viz:size>
+        <viz:position x="-1144.5021" y="917.42535"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="Édition_électronique">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.6679295709176108"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.679296"></viz:size>
+        <viz:position x="650.69556" y="-784.6041"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="Numérisation">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.6985695597125618"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="26.985695"></viz:size>
+        <viz:position x="213.14893" y="-619.35583"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="Édition_numérique">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.8635207739302291"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="28.635208"></viz:size>
+        <viz:position x="510.4663" y="-575.6898"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="Édition_en_réseau">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.5297601953684763"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="25.297602"></viz:size>
+        <viz:position x="853.2463" y="-527.1286"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="Continuité_et_Rupture">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.34318711076578906"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="23.431871"></viz:size>
+        <viz:position x="541.8195" y="-364.00592"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="WYSIWYG">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.009752751365783264"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="20.097528"></viz:size>
+        <viz:position x="833.34467" y="755.27527"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="Auteur">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.2673540507628121"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="22.67354"></viz:size>
+        <viz:position x="626.847" y="581.537"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="WYSIWYM">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.009752751365783264"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="20.097528"></viz:size>
+        <viz:position x="889.23267" y="838.76306"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="Pérennité_du_document">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.07528341777028476"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="20.752834"></viz:size>
+        <viz:position x="-285.09763" y="-495.20013"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="Web">
+        <attvalues>
+          <attvalue for="eigencentrality" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="17.782509" y="161.37726"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="Les_logiciels_du_livre_numérique">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.03317301589796531"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="20.33173"></viz:size>
+        <viz:position x="-323.92554" y="-554.39404"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="Théorie_du_support">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.03317301589796531"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="20.33173"></viz:size>
+        <viz:position x="-247.67894" y="-940.5875"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="Chaîne_éditoriale">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.44711832685577785"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="24.471184"></viz:size>
+        <viz:position x="599.6658" y="-188.33212"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="Idéologie_derrière_les_algorithmes">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.03317301589796531"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="20.33173"></viz:size>
+        <viz:position x="-511.8097" y="-588.6903"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="Numérisation_d'archives">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.03317301589796531"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="20.33173"></viz:size>
+        <viz:position x="-585.1931" y="-721.5758"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="Synthèse_séance_4">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.03317301589796531"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="20.33173"></viz:size>
+        <viz:position x="-408.0358" y="-692.95404"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="Libre_accès">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.33606105419081195"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="23.360611"></viz:size>
+        <viz:position x="413.47177" y="200.82387"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="Lecture/écriture">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.32657455899266935"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="23.265745"></viz:size>
+        <viz:position x="135.38333" y="194.56706"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="Types_de_licences">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.036370642427488324"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="20.363707"></viz:size>
+        <viz:position x="-556.6877" y="-153.40381"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="Droit_d'auteur">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.15652203777025447"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="21.56522"></viz:size>
+        <viz:position x="438.94226" y="658.8135"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="Longue_Traine">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.10967267697686454"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="21.096727"></viz:size>
+        <viz:position x="579.12415" y="-682.9029"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="Hypertexte">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.43000502666328344"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="24.30005"></viz:size>
+        <viz:position x="-1.2487664" y="7.864576"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="Métaontologie">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.010426185551211869"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="20.104261"></viz:size>
+        <viz:position x="-1203.1711" y="1147.862"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="Plateforme_d'édition">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.013623812080734883"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="20.136238"></viz:size>
+        <viz:position x="-1450.2965" y="922.287"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="Texte_numérique">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.06641123609031067"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="20.664112"></viz:size>
+        <viz:position x="21.418339" y="-840.5941"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="Discrétisation">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.13876331863022912"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="21.387632"></viz:size>
+        <viz:position x="146.55563" y="-689.0178"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="Format">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.1882598635429714"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="21.882599"></viz:size>
+        <viz:position x="-311.85178" y="-327.39297"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="Publication">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="622.9406" y="92.94028"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="Appropriation">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.0031976265295230186"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="20.031977"></viz:size>
+        <viz:position x="510.94217" y="67.8818"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="Économie_de_l'attention">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.24442546951197328"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="22.444256"></viz:size>
+        <viz:position x="1286.7076" y="-197.62692"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="DRM">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.06713035368243908"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="20.671303"></viz:size>
+        <viz:position x="226.63577" y="699.88696"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="Neutralité">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.27832526019319154"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="22.783253"></viz:size>
+        <viz:position x="-175.00583" y="236.65958"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="Production_des_contenus">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1540.8285" y="985.93646"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="Pratiques_intermédiales">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.0031976265295230186"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="20.031977"></viz:size>
+        <viz:position x="-1500.073" y="1119.9365"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="Web-documentaire">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1009.02655" y="88.652885"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="Open_Source">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-585.0796" y="-213.78056"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="Synthèse_séance_2">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.0031976265295230186"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="20.031977"></viz:size>
+        <viz:position x="-1052.7567" y="-278.49716"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="Interopérabilité">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.07528341777028476"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="20.752834"></viz:size>
+        <viz:position x="-385.91962" y="-300.3877"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="Continu_/_discret">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-449.38226" y="2902.746"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="Conjoncture_médiatrice">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.0031976265295230186"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="20.031977"></viz:size>
+        <viz:position x="-454.662" y="2868.546"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="Plateforme">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.02909064165336453"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="20.290907"></viz:size>
+        <viz:position x="-14.220191" y="-1059.8081"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="Médiation">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.02909064165336453"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="20.290907"></viz:size>
+        <viz:position x="-9.460088" y="-948.17645"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="Légitimation_des_contenus">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="559.0461" y="2982.2249"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="Théorie_de_l'édition">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.0031976265295230186"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="20.031977"></viz:size>
+        <viz:position x="526.8322" y="2954.544"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="Grande_conversation_scientifique">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="284.7787" y="244.03769"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="Évaluation_de_la_recherche">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.08057400250483657"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="20.80574"></viz:size>
+        <viz:position x="1361.2506" y="-233.32108"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="Légitimisation">
+        <attvalues>
+          <attvalue for="eigencentrality" value="0.10967267697686454"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="21.096727"></viz:size>
+        <viz:position x="599.4477" y="-408.16586"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Internet" target="Protocoles" weight="2.0">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="1" source="Internet" target="L'écriture_collaborative">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="2" source="Internet" target="Les_métadonnées_et_l'indexation">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="3" source="Internet" target="Algorithme">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="4" source="Légitimation" target="Désintermédiation" weight="2.0">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="5" source="Légitimation" target="Fonction_éditoriale" weight="2.0">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="6" source="Légitimation" target="Algorithme">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="7" source="Légitimation" target="GAFAM">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="8" source="Légitimation" target="Curation">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="9" source="Plateformes_d'édition" target="Éditorialisation">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="10" source="Plateformes_d'édition" target="Plateformes_numériques">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="11" source="Plateformes_d'édition" target="Espace_numérique">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="12" source="Édition_électronique" target="Numérisation">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="13" source="Édition_électronique" target="Édition_numérique">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="14" source="Édition_électronique" target="Édition_en_réseau">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="15" source="Édition_électronique" target="Continuité_et_Rupture">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="16" source="WYSIWYG" target="GAFAM">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="17" source="WYSIWYG" target="Auteur">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="18" source="WYSIWYG" target="Fonction_éditoriale">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="19" source="WYSIWYG" target="WYSIWYM">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="20" source="Pérennité_du_document" target="Internet">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="21" source="Pérennité_du_document" target="Web">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="22" source="Pérennité_du_document" target="Protocoles">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="23" source="Pérennité_du_document" target="Les_logiciels_du_livre_numérique" weight="2.0">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="24" source="Pérennité_du_document" target="Théorie_du_support">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="25" source="Pérennité_du_document" target="Numérisation">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="26" source="Pérennité_du_document" target="Continuité_et_Rupture">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="27" source="Pérennité_du_document" target="Chaîne_éditoriale">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="28" source="Pérennité_du_document" target="Idéologie_derrière_les_algorithmes">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="29" source="Pérennité_du_document" target="Numérisation_d'archives">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="30" source="Pérennité_du_document" target="Synthèse_séance_4">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="31" source="Pérennité_du_document" target="Les_métadonnées_et_l'indexation">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="32" source="Libre_accès" target="Numérisation" weight="2.0">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="33" source="Libre_accès" target="Légitimation" weight="2.0">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="34" source="Libre_accès" target="Fonction_éditoriale">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="35" source="Lecture/écriture" target="L'écriture_collaborative">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="36" source="Types_de_licences" target="Droit_d'auteur">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="37" source="Longue_Traine" target="Édition_numérique" weight="2.0">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="38" source="Longue_Traine" target="Édition_électronique">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="39" source="Web" target="Lecture/écriture" weight="2.0">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="40" source="Web" target="Protocoles">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="41" source="Web" target="Internet">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="42" source="Web" target="Hypertexte">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="43" source="Plateformes_numériques" target="Espace_numérique">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="44" source="Plateformes_numériques" target="Métaontologie">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="45" source="Plateformes_numériques" target="Éditorialisation">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="46" source="Plateformes_numériques" target="Plateforme_d'édition">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="47" source="Numérisation" target="Édition_électronique">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="48" source="Numérisation" target="Édition_numérique">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="49" source="Numérisation" target="Édition_en_réseau">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="50" source="Numérisation" target="Web">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="51" source="Théorie_du_support" target="Texte_numérique">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="52" source="Discrétisation" target="Numérisation" weight="3.0">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="53" source="Discrétisation" target="Texte_numérique" weight="2.0">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="54" source="Discrétisation" target="Format">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="55" source="Édition_en_réseau" target="L'écriture_collaborative">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="56" source="Édition_en_réseau" target="Fonction_éditoriale">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="57" source="Publication" target="Auteur" weight="2.0">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="58" source="Publication" target="Fonction_éditoriale">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="59" source="Publication" target="Appropriation" weight="2.0">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="60" source="Publication" target="Web">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="61" source="Publication" target="Format">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="62" source="Publication" target="Chaîne_éditoriale" weight="2.0">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="63" source="Désintermédiation" target="Chaîne_éditoriale" weight="2.0">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="64" source="Désintermédiation" target="Web">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="65" source="Désintermédiation" target="Édition_électronique">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="66" source="Désintermédiation" target="Économie_de_l'attention">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="67" source="DRM" target="Internet">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="68" source="DRM" target="Droit_d'auteur">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="69" source="DRM" target="Web">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="70" source="DRM" target="Libre_accès">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="71" source="GAFAM" target="Web" weight="3.0">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="72" source="GAFAM" target="Fonction_éditoriale" weight="2.0">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="73" source="GAFAM" target="Édition_numérique">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="74" source="GAFAM" target="L'écriture_collaborative">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="75" source="GAFAM" target="Algorithme">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="76" source="GAFAM" target="Les_métadonnées_et_l'indexation">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="77" source="GAFAM" target="Économie_de_l'attention">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="78" source="GAFAM" target="Neutralité">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="79" source="Production_des_contenus" target="Plateforme_d'édition">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="80" source="Production_des_contenus" target="Pratiques_intermédiales">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="81" source="Production_des_contenus" target="Plateformes_numériques">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="82" source="Web-documentaire" target="Pérennité_du_document">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="83" source="Web-documentaire" target="Fonction_éditoriale">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="84" source="WYSIWYM" target="WYSIWYG">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="85" source="Édition_numérique" target="Numérisation">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="86" source="Édition_numérique" target="Édition_électronique">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="87" source="Édition_numérique" target="Chaîne_éditoriale">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="88" source="Open_Source" target="Types_de_licences" weight="2.0">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="89" source="Open_Source" target="Internet">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="90" source="Open_Source" target="Synthèse_séance_2">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="91" source="Open_Source" target="Édition_numérique">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="92" source="Open_Source" target="Format">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="93" source="Open_Source" target="Interopérabilité">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="94" source="Droit_d'auteur" target="Auteur" weight="2.0">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="95" source="Droit_d'auteur" target="Web">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="96" source="Droit_d'auteur" target="DRM">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="97" source="Chaîne_éditoriale" target="Désintermédiation" weight="2.0">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="98" source="Fonction_éditoriale" target="Légitimation">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="99" source="Fonction_éditoriale" target="Auteur">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="100" source="Fonction_éditoriale" target="Édition_numérique">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="101" source="Fonction_éditoriale" target="Libre_accès">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="102" source="Protocoles" target="Internet">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="103" source="Protocoles" target="Web">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="104" source="Protocoles" target="Neutralité">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="105" source="Neutralité" target="Internet" weight="4.0">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="106" source="Neutralité" target="Web" weight="2.0">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="107" source="Neutralité" target="Algorithme">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="108" source="Interopérabilité" target="Édition_numérique">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="109" source="Interopérabilité" target="Types_de_licences">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="110" source="Les_métadonnées_et_l'indexation" target="GAFAM" weight="2.0">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="111" source="Les_métadonnées_et_l'indexation" target="Protocoles" weight="2.0">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="112" source="Les_métadonnées_et_l'indexation" target="Hypertexte" weight="2.0">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="113" source="Les_métadonnées_et_l'indexation" target="Format" weight="2.0">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="114" source="Les_métadonnées_et_l'indexation" target="Web">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="115" source="Les_métadonnées_et_l'indexation" target="Continuité_et_Rupture">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="116" source="Les_métadonnées_et_l'indexation" target="Algorithme">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="117" source="Continu_/_discret" target="Conjoncture_médiatrice">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="118" source="Curation" target="Web">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="119" source="Appropriation" target="Continuité_et_Rupture">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="120" source="Appropriation" target="Lecture/écriture">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="121" source="Appropriation" target="Droit_d'auteur">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="122" source="Appropriation" target="Libre_accès">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="123" source="Appropriation" target="Hypertexte">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="124" source="Texte_numérique" target="Numérisation">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="125" source="Texte_numérique" target="Format">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="126" source="Texte_numérique" target="Plateforme">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="127" source="Texte_numérique" target="Discrétisation">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="128" source="Texte_numérique" target="Médiation">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="129" source="Éditorialisation" target="Espace_numérique">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="130" source="Format" target="Interopérabilité" weight="3.0">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="131" source="Format" target="Pérennité_du_document" weight="2.0">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="132" source="Légitimation_des_contenus" target="Théorie_de_l'édition">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="133" source="Auteur" target="Droit_d'auteur">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="134" source="Auteur" target="Désintermédiation">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="135" source="Grande_conversation_scientifique" target="Internet" weight="2.0">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="136" source="Grande_conversation_scientifique" target="Libre_accès" weight="3.0">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="137" source="Grande_conversation_scientifique" target="Droit_d'auteur">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="138" source="Grande_conversation_scientifique" target="Web">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="139" source="Grande_conversation_scientifique" target="Numérisation">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="140" source="Grande_conversation_scientifique" target="Légitimation">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="141" source="Évaluation_de_la_recherche" target="Économie_de_l'attention">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="142" source="Continuité_et_Rupture" target="Édition_numérique" weight="2.0">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="143" source="Continuité_et_Rupture" target="Libre_accès">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="144" source="Continuité_et_Rupture" target="Désintermédiation" weight="4.0">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="145" source="Continuité_et_Rupture" target="Discrétisation" weight="2.0">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="146" source="Continuité_et_Rupture" target="Légitimisation" weight="2.0">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="147" source="Continuité_et_Rupture" target="Éditorialisation">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="148" source="Continuité_et_Rupture" target="Longue_Traine">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="149" source="Continuité_et_Rupture" target="Fonction_éditoriale">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="150" source="Continuité_et_Rupture" target="Édition_en_réseau">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+      <edge id="151" source="Économie_de_l'attention" target="Évaluation_de_la_recherche" weight="2.0">
+        <viz:color r="82" g="82" b="82"></viz:color>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
